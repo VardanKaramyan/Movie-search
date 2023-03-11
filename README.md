@@ -26,9 +26,8 @@ Open the application in your web browser:
 
 ## Usage
 
-1. Enter a keyword in the search bar and press "Enter" or click the "Search" button.
-2. The application will retrieve data from the OMDB API and display the results on the screen.
-3. Click on a movie to view more details about the movie.
+1. Enter a Movie Name in both search bars, wait for autocomplete and select your 2 prefered movies.
+2. The application will retrieve data from the OMDB API, compare 2 movies and display highlighted results on the screen.
 
 ## Features
 
