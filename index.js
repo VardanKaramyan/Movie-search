@@ -77,7 +77,7 @@ const runComparison = () => {
             leftStat.classList.add('is-danger');
         } else {
             rightStat.classList.remove('is-link');
-            rightStat.classList.add('is-danger');
+            rightStat.classList.add('is-primary');
         }
 
     });
