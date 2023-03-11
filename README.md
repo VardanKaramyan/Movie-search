@@ -21,9 +21,9 @@ Movie Search is a web application that allows users to search for movies by ente
    http://localhost:3000/
 
 ## Web version
-Open the application in your web browser using:
+Open the application in your web browser:
 
-    https://movie-search-woad-eta.vercel.app
+[movie-search-woad-eta.vercel.app](url)
 
 ## Usage
 
