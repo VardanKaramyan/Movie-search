@@ -74,7 +74,7 @@ const runComparison = () => {
 
         if (rightSideValue > leftSideValue) {
             leftStat.classList.remove('is-link');
-            leftStat.classList.add('is-danger');
+            leftStat.classList.add('is-warning');
         } else {
             rightStat.classList.remove('is-link');
             rightStat.classList.add('is-primary');
